@@ -1,6 +1,3 @@
-Here you go ✅ — the full **README.md** content wrapped cleanly in a markdown file format:
-
-
 # TechnoTribe
 
 A React + TypeScript project built with Vite and TailwindCSS.
@@ -79,6 +76,4 @@ Feel free to fork this repo, create a new branch, and submit a pull request.
 
 This project is licensed under the MIT License.
 
-```
-Would you like me to also create a **matching `requirements.txt` in markdown** (so you can paste both together into your repo), or just keep that as a plain `.txt` file?
 ```
