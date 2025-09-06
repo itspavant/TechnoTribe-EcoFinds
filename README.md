@@ -1,7 +1,7 @@
 Here you go ✅ — the full **README.md** content wrapped cleanly in a markdown file format:
 
-````markdown
-# TechnoTrible-Lovable
+
+# TechnoTribe
 
 A React + TypeScript project built with Vite and TailwindCSS.
 
