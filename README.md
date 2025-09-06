@@ -10,7 +10,7 @@ A React + TypeScript project built with Vite and TailwindCSS.
   ```bash
   node -v
   npm -v
-````
+
 
 ### Installation
 
